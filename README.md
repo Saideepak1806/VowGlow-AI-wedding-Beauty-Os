@@ -109,7 +109,7 @@ Dynamic Duo
 
 # 📷 Demo
 
-* **Live Workspace URL**: [VowGlow App Preview](https://ais-pre-x26m6rsca3yvbjoc243oto-836717417093.asia-east1.run.app)
+* **Live Workspace URL**: [VowGlow App Preview](https://vowglow-ai-wedding-beauty-os-732150670697.asia-southeast1.run.app/)
 * *Add your screenshots, walkthroughs, and demo videos here!*
 
 ---
