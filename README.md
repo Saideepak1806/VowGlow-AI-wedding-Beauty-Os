@@ -17,13 +17,13 @@ Our vision is simple: **"Your entire wedding beauty team in one place."**
 ---
 
 # 👥 Team
-
+Dynamic Duo
 **Project Lead:**
 * **PINDIBOINA SAI DEEPAK**
 
 **Team Members:**
-* *[Member Name 1]*
-* *[Member Name 2]*
+* *PINDIBOINA SAI DEEPAK*
+* *MOLAGAMODI KISHORE*
 
 ---
 
